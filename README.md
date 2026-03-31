@@ -1,7 +1,7 @@
 # 📘 Digital Literacy Project
 
 ## 👤 Student Details
-- Name: Niraj Yadav  
+- Name: Niraj Yadav (BAI10741) 
 - Branch: Computer Science Engineering (CSE)  
 - Year: 1st Year  
 
