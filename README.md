@@ -63,10 +63,9 @@ The objective of this project is to develop essential digital skills such as onl
 ## 🔗 Useful Links
 
 - 🌐 GitHub Profile: https://github.com/nirajyadav-cse  
-- 💼 LinkedIn Profile: *(Add your LinkedIn link here)*  
-- 📊 Kaggle Profile: *(Add your Kaggle link here)*  
-- 📝 Google Form: *(Add your form link here)*  
-
+- 💼 LinkedIn Profile:linkedin.com/in/niraj-yadav-44468a3bb/
+- 📝 Google Form: [
+](https://docs.google.com/forms/d/e/1FAIpQLSeDJycg9beki5gY5KjAtj8TCA9rT12NJbqe9sPCc7nbDymxJQ/viewform?usp=preview)
 ---
 
 ## 🎯 Learning Outcomes
